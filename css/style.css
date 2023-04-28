@@ -1,0 +1,18 @@
+body{
+    color: purple;
+    background-color: peachpuff;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3{
+    font-weight: 800;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+.list{
+    font-size: x-large;
+}
